@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>세종~청주 1공구</name>
+    <Placemark>
+      <name>공구종점</name>
+      <description>세종특별자치시 연서면 국촌리 106-3</description>
+      <Point>
+        <coordinates>127.2761,36.56978,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>국촌교 종점</name>
+      <description>세종특별자치시 연서면 부국길 144-5</description>
+      <Point>
+        <coordinates>127.2653,36.57163,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>국촌교 시점</name>
+      <description>세종특별자치시 연서면 국촌리 291-5</description>
+      <Point>
+        <coordinates>127.26232,36.57224,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>신대교 종점</name>
+      <description>세종특별자치시 연서면 신대리 195-1</description>
+      <Point>
+        <coordinates>127.25395,36.57397,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>신대교 시점</name>
+      <description>세종특별자치시 연서면 와룡로 203</description>
+      <Point>
+        <coordinates>127.25348,36.57407,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>연서교 종점</name>
+      <description>세종특별자치시 연서면 기룡리 111</description>
+      <Point>
+        <coordinates>127.24646,36.57552,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>연서교 시점</name>
+      <description>세종특별자치시 연서면 기룡리 산18</description>
+      <Point>
+        <coordinates>127.2405,36.57697,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>기룡4교 종점</name>
+      <description>세종특별자치시 연서면 기룡리 산24</description>
+      <Point>
+        <coordinates>127.23586,36.5783,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>기룡4교 시점</name>
+      <description>세종특별자치시 연서면 기룡리 산47-1</description>
+      <Point>
+        <coordinates>127.23319,36.57908,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>기룡3교 종점</name>
+      <description>세종특별자치시 연서면 기룡리 산99-2</description>
+      <Point>
+        <coordinates>127.22626,36.58101,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>기룡3교 시점</name>
+      <description>세종특별자치시 연서면 기룡리 산99-1</description>
+      <Point>
+        <coordinates>127.22409,36.58158,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ramp-A 종점</name>
+      <description>세종특별자치시 연서면 기룡리 산100-2</description>
+      <Point>
+        <coordinates>127.22065,36.58529,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>연서분기점 Ramp-B</name>
+      <description>세종특별자치시 연서면 기룡리 산100-2</description>
+      <Point>
+        <coordinates>127.21979,36.58466,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>연서분기점3교</name>
+      <description>세종특별자치시 연서면 기룡리 493-9</description>
+      <Point>
+        <coordinates>127.21968,36.58356,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>연서분기점5교</name>
+      <description>세종특별자치시 연서면 기룡리 산103</description>
+      <Point>
+        <coordinates>127.2183,36.58276,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>연서분기점2교</name>
+      <description>세종특별자치시 연서면 기룡리 산103-1</description>
+      <Point>
+        <coordinates>127.21885,36.58186,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>본선시점</name>
+      <description>세종특별자치시 연서면 기룡리 산99-1</description>
+      <Point>
+        <coordinates>127.22454,36.58145,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>연서분기점1교 시점</name>
+      <description>세종특별자치시 연서면 기룡리 산108-4</description>
+      <Point>
+        <coordinates>127.21747,36.57864,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>연서분기점1교 종점</name>
+      <description>세종특별자치시 연서면 기룡리 산95</description>
+      <Point>
+        <coordinates>127.22088,36.58141,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>연서분기점4교 시점</name>
+      <description>세종특별자치시 연서면 기룡리 553-2</description>
+      <Point>
+        <coordinates>127.21801,36.58172,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>연서분기점 4교 종점</name>
+      <description>세종특별자치시 연서면 기룡리 산108-4</description>
+      <Point>
+        <coordinates>127.21706,36.57877,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
