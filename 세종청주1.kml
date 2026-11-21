@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ex="http://earth.google.com/kml/ext">
+<Document id="document">
+	<ex:extension>base64;CooBCoEBCn8KAggBEnkKdwokCiAKAwjQDxoHCNLtZRD_ASEAAAAAAADwPykAAAAAAAAAABgAEg8KCAitgO8HEP8BEKAfGAAaGgoHCP___wcQQBIICK2A7wcQ_wEYoB8gACgAIgkIARIFCP___wcqFwgBEggI____BxD_ARkAAAAAAADwPyAAEgQIARAA</ex:extension>
+	<name>세종청주1</name>
+	<visibility>0</visibility>
+	<gx:CascadingStyle kml:id="__managed_style_0FF513561C4332127F3B_highlight">
+		<ex:extension>base64;Eq4BGAEiqQEKpgEKT2h0dHBzOi8vZWFydGguZ29vZ2xlLmNvbS9iYWxsb29uX2NvbXBvbmVudHMvYmFzZS8xLjEuMC4wL2NhcmRfdGVtcGxhdGUua21sI21haW4SUwpPaHR0cHM6Ly9lYXJ0aC5nb29nbGUuY29tL2JhbGxvb25fY29tcG9uZW50cy9iYXNlL2N1cnJlbnQvY2FyZF90ZW1wbGF0ZS5rbWwjbWFpbhgA</ex:extension>
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0FF513561C4332127F3B_normal">
+		<ex:extension>base64;Eq4BGAEiqQEKpgEKT2h0dHBzOi8vZWFydGguZ29vZ2xlLmNvbS9iYWxsb29uX2NvbXBvbmVudHMvYmFzZS8xLjEuMC4wL2NhcmRfdGVtcGxhdGUua21sI21haW4SUwpPaHR0cHM6Ly9lYXJ0aC5nb29nbGUuY29tL2JhbGxvb25fY29tcG9uZW50cy9iYXNlL2N1cnJlbnQvY2FyZF90ZW1wbGF0ZS5rbWwjbWFpbhgA</ex:extension>
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0FF513561C4332127F3B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0028D5D3994332120CEE_highlight">
+		<ex:extension>base64;EgIYAQ</ex:extension>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0028D5D3994332120CEE_normal">
+		<ex:extension>base64;EgIYAQ</ex:extension>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0028D5D3994332120CEE">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0028D5D3994332120CEE_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0028D5D3994332120CEE_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<GroundOverlay id="79b83f1e-1dba-4c98-a11f-2cec8106bda9">
+		<name>_____1______STA0-4800.kml</name>
+		<LookAt>
+			<longitude>127.245903815</longitude>
+			<latitude>36.57988231</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>17123.91886935948</range>
+		</LookAt>
+		<styleUrl>#__managed_style_0028D5D3994332120CEE</styleUrl>
+		<Icon>
+			<href>data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==</href>
+		</Icon>
+		<LatLonBox>
+			<north>85</north>
+			<south>-85</south>
+			<east>180</east>
+			<west>-180</west>
+		</LatLonBox>
+		<gx:MapTilePyramid>
+			<Link>
+				<href>files/earthdatalayer:0:CAYSJDA2MTg1MzM5LTA2YzAtNGI3Mi05OGVkLWRmM2NmOGQ0NTdjMw</href>
+			</Link>
+			<gx:minLevel>0</gx:minLevel>
+			<gx:maxLevel>22</gx:maxLevel>
+		</gx:MapTilePyramid>
+	</GroundOverlay>
+	<Folder id="600FC1D35E000001">
+		<ex:extension>base64;GgA</ex:extension>
+		<name>세종~청주 1공구</name>
+		<open>1</open>
+		<styleUrl>#__managed_style_0028D5D3994332120CEE</styleUrl>
+		<Placemark id="600FC1D35E000002">
+			<name>공구종점</name>
+			<description>세종특별자치시 연서면 국촌리 106-3</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.2761,36.56978,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35E000003">
+			<name>국촌교 종점</name>
+			<description>세종특별자치시 연서면 부국길 144-5</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.2653,36.57163,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35E000004">
+			<name>국촌교 시점</name>
+			<description>세종특별자치시 연서면 국촌리 291-5</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.26232,36.57224,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35E000005">
+			<name>신대교 종점</name>
+			<description>세종특별자치시 연서면 신대리 195-1</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.25395,36.57397,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35E000006">
+			<name>신대교 시점</name>
+			<description>세종특별자치시 연서면 와룡로 203</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.25348,36.57407,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35E000007">
+			<name>연서교 종점</name>
+			<description>세종특별자치시 연서면 기룡리 111</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.24646,36.57552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35E000008">
+			<name>연서교 시점</name>
+			<description>세종특별자치시 연서면 기룡리 산18</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.2405,36.57697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35E000009">
+			<name>기룡4교 종점</name>
+			<description>세종특별자치시 연서면 기룡리 산24</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.23586,36.5783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35E00000A">
+			<name>기룡4교 시점</name>
+			<description>세종특별자치시 연서면 기룡리 산47-1</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.23319,36.57908,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35E00000B">
+			<name>기룡3교 종점</name>
+			<description>세종특별자치시 연서면 기룡리 산99-2</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.22626,36.58101,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35E00000C">
+			<name>기룡3교 시점</name>
+			<description>세종특별자치시 연서면 기룡리 산99-1</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.22409,36.58158,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35E00000D">
+			<name>Ramp-A 종점</name>
+			<description>세종특별자치시 연서면 기룡리 산100-2</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.22065,36.58529,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35E00000E">
+			<name>연서분기점 Ramp-B</name>
+			<description>세종특별자치시 연서면 기룡리 산100-2</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.21979,36.58466,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35E00000F">
+			<name>연서분기점3교</name>
+			<description>세종특별자치시 연서면 기룡리 493-9</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.21968,36.58356,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35E000010">
+			<name>연서분기점5교</name>
+			<description>세종특별자치시 연서면 기룡리 산103</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.2183,36.58276,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35E000011">
+			<name>연서분기점2교</name>
+			<description>세종특별자치시 연서면 기룡리 산103-1</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.21885,36.58186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35E000012">
+			<name>본선시점</name>
+			<description>세종특별자치시 연서면 기룡리 산99-1</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.22454,36.58145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35E000013">
+			<name>연서분기점1교 시점</name>
+			<description>세종특별자치시 연서면 기룡리 산108-4</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.21747,36.57864,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35E000014">
+			<name>연서분기점1교 종점</name>
+			<description>세종특별자치시 연서면 기룡리 산95</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.22088,36.58141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35F000015">
+			<name>연서분기점4교 시점</name>
+			<description>세종특별자치시 연서면 기룡리 553-2</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.21801,36.58172,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="600FC1D35F000016">
+			<name>연서분기점 4교 종점</name>
+			<description>세종특별자치시 연서면 기룡리 산108-4</description>
+			<styleUrl>#__managed_style_0FF513561C4332127F3B</styleUrl>
+			<Point>
+				<coordinates>127.21706,36.57877,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
