@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>화성전력구(서동탄분기)</name>
+    <Placemark>
+      <name>공사 종점 (개착식 100m)</name>
+      <description>경기도 화성시 동탄구 10용사로 661</description>
+      <Point>
+        <coordinates>127.08239,37.18597,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>공사 시점 (발진구 1229m) (-65m)</name>
+      <description>경기도 화성시 동탄구 여울동 967-2010</description>
+      <Point>
+        <coordinates>127.09643,37.18328,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>도달구 1229m</name>
+      <description>경기도 화성시 동탄구 10용사로 661</description>
+      <Point>
+        <coordinates>127.08301,37.18629,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SRT터널근접(20.23m)(-50.76m)</name>
+      <description>경기도 화성시 동탄구 여울동 921-291</description>
+      <Point>
+        <coordinates>127.09548,37.184,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
