@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>영동선(서창~안산) 확장 1공구</name>
+    <Style id="bookmarkPin">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>옥외공동구 (도로횡단 시공)</name>
+      <description>주소: 인천광역시 남동구 논현동 33-24
+메모: 옥외공동구 (도로횡단 시공)
+유형: 주소/위치
+북마크 ID: 4968309624</description>
+      <address>인천광역시 남동구 논현동 33-24</address>
+      <styleUrl>#bookmarkPin</styleUrl>
+      <Point>
+        <coordinates>126.73984,37.40908,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>방음터널 종점 980m</name>
+      <description>주소: 인천광역시 남동구 논현동 111-464
+메모: 방음터널 종점 980m
+유형: 주소/위치
+북마크 ID: 4968303182</description>
+      <address>인천광역시 남동구 논현동 111-464</address>
+      <styleUrl>#bookmarkPin</styleUrl>
+      <Point>
+        <coordinates>126.74135,37.40013,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>방음터널 시점 980m</name>
+      <description>주소: 인천광역시 남동구 논현동 33-24
+메모: 방음터널 시점 980m
+유형: 주소/위치
+북마크 ID: 4968300378</description>
+      <address>인천광역시 남동구 논현동 33-24</address>
+      <styleUrl>#bookmarkPin</styleUrl>
+      <Point>
+        <coordinates>126.7398,37.40908,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>도림2육교 철거</name>
+      <description>주소: 인천광역시 남동구 도림동 162-9
+메모: 도림2육교 철거
+유형: 주소/위치
+북마크 ID: 4968245737</description>
+      <address>인천광역시 남동구 도림동 162-9</address>
+      <styleUrl>#bookmarkPin</styleUrl>
+      <Point>
+        <coordinates>126.73803,37.41809,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>논현육교 (일부철거 신설) 55m</name>
+      <description>주소: 인천광역시 남동구 논현동 21-31
+메모: 논현육교 (일부철거 신설) 55m
+유형: 주소/위치
+북마크 ID: 4968213653</description>
+      <address>인천광역시 남동구 논현동 21-31</address>
+      <styleUrl>#bookmarkPin</styleUrl>
+      <Point>
+        <coordinates>126.73896,37.41467,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>논현교 (완전 철거 신설) 90m</name>
+      <description>주소: 인천광역시 남동구 논현동 66-11
+메모: 논현교 (완전 철거 신설) 90m
+유형: 주소/위치
+북마크 ID: 4968028844</description>
+      <address>인천광역시 남동구 논현동 66-11</address>
+      <styleUrl>#bookmarkPin</styleUrl>
+      <Point>
+        <coordinates>126.74044,37.40459,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>도림1육교 (완전철거 신설) 45m+45m</name>
+      <description>주소: 인천광역시 남동구 도림동 64-3
+메모: 도림1육교 (완전철거 신설) 45m+45m
+유형: 주소/위치
+북마크 ID: 4968192386</description>
+      <address>인천광역시 남동구 도림동 64-3</address>
+      <styleUrl>#bookmarkPin</styleUrl>
+      <Point>
+        <coordinates>126.7374,37.42208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>영업소 부지</name>
+      <description>주소: 인천광역시 남동구 논현동 9-9
+메모: 영업소 부지
+유형: 주소/위치
+북마크 ID: 4968209686</description>
+      <address>인천광역시 남동구 논현동 9-9</address>
+      <styleUrl>#bookmarkPin</styleUrl>
+      <Point>
+        <coordinates>126.73931,37.41802,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1공구 종점</name>
+      <description>주소: 경기도 시흥시 월곶동 520-103
+메모: 1공구 종점
+유형: 주소/위치
+북마크 ID: 4968186343</description>
+      <address>경기도 시흥시 월곶동 520-103</address>
+      <styleUrl>#bookmarkPin</styleUrl>
+      <Point>
+        <coordinates>126.74746,37.39127,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>소래교 방음벽교 시점 360.1m</name>
+      <description>주소: 인천광역시 남동구 논현동 111-464
+메모: 소래교 방음벽교 시점 360.1m
+유형: 주소/위치
+북마크 ID: 4968041423</description>
+      <address>인천광역시 남동구 논현동 111-464</address>
+      <styleUrl>#bookmarkPin</styleUrl>
+      <Point>
+        <coordinates>126.74118,37.39988,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>소래교 방음벽교 종점 360.1m</name>
+      <description>주소: 경기도 시흥시 월곶동 520-125
+메모: 소래교 방음벽교 종점 360.1m
+유형: 주소/위치
+북마크 ID: 4968042203</description>
+      <address>경기도 시흥시 월곶동 520-125</address>
+      <styleUrl>#bookmarkPin</styleUrl>
+      <Point>
+        <coordinates>126.74251,37.39689,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>소래교 A2 확장 348.7m</name>
+      <description>주소: 경기도 시흥시 월곶동 520-126
+메모: 소래교 A2 확장 348.7m
+유형: 주소/위치
+북마크 ID: 4968037149</description>
+      <address>경기도 시흥시 월곶동 520-126</address>
+      <styleUrl>#bookmarkPin</styleUrl>
+      <Point>
+        <coordinates>126.74284,37.39714,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>소래교 A1 확장 348.7m</name>
+      <description>주소: 인천광역시 남동구 논현동 111-464
+메모: 소래교 A1 확장 348.7m
+유형: 주소/위치
+북마크 ID: 4968035459</description>
+      <address>인천광역시 남동구 논현동 111-464</address>
+      <styleUrl>#bookmarkPin</styleUrl>
+      <Point>
+        <coordinates>126.74159,37.40008,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>장수천3교 확장 60.8m</name>
+      <description>주소: 인천광역시 남동구 서창동 502-38
+메모: 장수천3교 확장 60.8m
+유형: 주소/위치
+북마크 ID: 4967992582</description>
+      <address>인천광역시 남동구 서창동 502-38</address>
+      <styleUrl>#bookmarkPin</styleUrl>
+      <Point>
+        <coordinates>126.73762,37.42876,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>터널관리소</name>
+      <description>주소: 인천광역시 남동구 소래로154번길 69-99
+지번 주소: 인천 남동구 논현동 33-25
+메모: 터널관리소
+유형: 주소/위치
+북마크 ID: 4968015990</description>
+      <address>인천광역시 남동구 소래로154번길 69-99</address>
+      <styleUrl>#bookmarkPin</styleUrl>
+      <Point>
+        <coordinates>126.74004,37.40959,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>회차로(강릉)</name>
+      <description>주소: 인천광역시 남동구 논현동 26-7
+메모: 회차로(강릉)
+유형: 주소/위치
+북마크 ID: 4968004675</description>
+      <address>인천광역시 남동구 논현동 26-7</address>
+      <styleUrl>#bookmarkPin</styleUrl>
+      <Point>
+        <coordinates>126.7388,37.4136,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>1공구 시점</name>
+      <description>주소: 인천광역시 남동구 서창동 500-188
+메모: 1공구 시점
+유형: 주소/위치
+북마크 ID: 4967973601</description>
+      <address>인천광역시 남동구 서창동 500-188</address>
+      <styleUrl>#bookmarkPin</styleUrl>
+      <Point>
+        <coordinates>126.73814,37.43072,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
