@@ -1,129 +1,122 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>영동선(서창~안산) 확장 1공구</name>
-    <Style id="bookmarkPin">
-      <IconStyle>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
     <Placemark>
       <name>옥외공동구 (도로횡단 시공)</name>
-      <styleUrl>#bookmarkPin</styleUrl>
+      <description>인천광역시 남동구 논현동 33-24</description>
       <Point>
         <coordinates>126.73984,37.40908,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>방음터널 종점 980m</name>
-      <styleUrl>#bookmarkPin</styleUrl>
+      <description>인천광역시 남동구 논현동 111-464</description>
       <Point>
         <coordinates>126.74135,37.40013,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>방음터널 시점 980m</name>
-      <styleUrl>#bookmarkPin</styleUrl>
+      <description>인천광역시 남동구 논현동 33-24</description>
       <Point>
         <coordinates>126.7398,37.40908,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>도림2육교 철거</name>
-      <styleUrl>#bookmarkPin</styleUrl>
+      <description>인천광역시 남동구 도림동 162-9</description>
       <Point>
         <coordinates>126.73803,37.41809,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>논현육교 (일부철거 신설) 55m</name>
-      <styleUrl>#bookmarkPin</styleUrl>
+      <description>인천광역시 남동구 논현동 21-31</description>
       <Point>
         <coordinates>126.73896,37.41467,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>논현교 (완전 철거 신설) 90m</name>
-      <styleUrl>#bookmarkPin</styleUrl>
+      <description>인천광역시 남동구 논현동 66-11</description>
       <Point>
         <coordinates>126.74044,37.40459,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>도림1육교 (완전철거 신설) 45m+45m</name>
-      <styleUrl>#bookmarkPin</styleUrl>
+      <description>인천광역시 남동구 도림동 64-3</description>
       <Point>
         <coordinates>126.7374,37.42208,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>영업소 부지</name>
-      <styleUrl>#bookmarkPin</styleUrl>
+      <description>인천광역시 남동구 논현동 9-9</description>
       <Point>
         <coordinates>126.73931,37.41802,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>1공구 종점</name>
-      <styleUrl>#bookmarkPin</styleUrl>
+      <description>경기도 시흥시 월곶동 520-103</description>
       <Point>
         <coordinates>126.74746,37.39127,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>소래교 방음벽교 시점 360.1m</name>
-      <styleUrl>#bookmarkPin</styleUrl>
+      <description>인천광역시 남동구 논현동 111-464</description>
       <Point>
         <coordinates>126.74118,37.39988,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>소래교 방음벽교 종점 360.1m</name>
-      <styleUrl>#bookmarkPin</styleUrl>
+      <description>경기도 시흥시 월곶동 520-125</description>
       <Point>
         <coordinates>126.74251,37.39689,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>소래교 A2 확장 348.7m</name>
-      <styleUrl>#bookmarkPin</styleUrl>
+      <description>경기도 시흥시 월곶동 520-126</description>
       <Point>
         <coordinates>126.74284,37.39714,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>소래교 A1 확장 348.7m</name>
-      <styleUrl>#bookmarkPin</styleUrl>
+      <description>인천광역시 남동구 논현동 111-464</description>
       <Point>
         <coordinates>126.74159,37.40008,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>장수천3교 확장 60.8m</name>
-      <styleUrl>#bookmarkPin</styleUrl>
+      <description>인천광역시 남동구 서창동 502-38</description>
       <Point>
         <coordinates>126.73762,37.42876,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>터널관리소</name>
-      <styleUrl>#bookmarkPin</styleUrl>
+      <description>인천광역시 남동구 소래로154번길 69-99</description>
       <Point>
         <coordinates>126.74004,37.40959,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>회차로(강릉)</name>
-      <styleUrl>#bookmarkPin</styleUrl>
+      <description>인천광역시 남동구 논현동 26-7</description>
       <Point>
         <coordinates>126.7388,37.4136,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
       <name>1공구 시점</name>
-      <styleUrl>#bookmarkPin</styleUrl>
+      <description>인천광역시 남동구 서창동 500-188</description>
       <Point>
         <coordinates>126.73814,37.43072,0</coordinates>
       </Point>
