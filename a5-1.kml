@@ -17,14 +17,14 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>도달구 1229m</name>
+      <name>도달구 1229m (-42m)</name>
       <description>경기도 화성시 동탄구 10용사로 661</description>
       <Point>
         <coordinates>127.08301,37.18629,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>SRT터널근접(20.23m)(-50.76m)</name>
+      <name>SRT터널근접 20m (-51m)</name>
       <description>경기도 화성시 동탄구 여울동 921-291</description>
       <Point>
         <coordinates>127.09548,37.184,0</coordinates>
